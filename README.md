@@ -40,9 +40,6 @@ The dataset contains:
 - Salary vs Attrition (Column Chart)
 - Hiring Trend (Line Chart)
 - Interactive Slicers
-
-  ![Dashboard](dashboard.png)
-
   
 ## Key Insights
 - Highest attrition in Sales department
