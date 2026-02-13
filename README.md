@@ -48,7 +48,7 @@ The dataset contains:
 - Hiring increased in recent year
 
 ## Dashboard Screenshot
-Upload screenshot in repo and paste below:
+![Dashboard](dashboard.png)
 
 ## Files in Repository
 - HR_Analytics_Dashboard.pbix
